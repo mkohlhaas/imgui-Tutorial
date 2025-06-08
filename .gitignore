@@ -4,6 +4,7 @@
 # Custom
 build/
 .cache/
+imgui.ini
 
 ### C++ ###
 # Prerequisites
