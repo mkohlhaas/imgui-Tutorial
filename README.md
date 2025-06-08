@@ -8,11 +8,11 @@ $ vcpkg add port imgui[docking-experimental,glfw-binding,vulkan-binding]
 
 ### Copy & Edit Files
 
-- `.gitignore` from https://www.toptal.com/developers/gitignore (add `build` directory)
-- `CMakeLists.txt` from https://github.com/mkohlhaas/vcpkg-Tutorial/blob/main/helloworld/CMakeLists.txt (minor changes)
-- `CMakePresets.json` from https://github.com/mkohlhaas/vcpkg-Tutorial/blob/main/helloworld/CMakePresets.json (no change)
-- `main.cpp` from https://github.com/ocornut/imgui/blob/master/examples/example_glfw_vulkan/main.cpp (no change)
-- `.clang-format` from https://github.com/mkohlhaas/Template-Metaprogramming-with-CPP/blob/main/.clang-format (no change)
+- [`.gitignore`](https://www.toptal.com/developers/gitignore): add `build` directory
+- [`CMakeLists.txt`](https://github.com/mkohlhaas/vcpkg-Tutorial/blob/main/helloworld/CMakeLists.txt): minor changes
+- [`CMakePresets.json`](https://github.com/mkohlhaas/vcpkg-Tutorial/blob/main/helloworld/CMakePresets.json): no change
+- [`main.cpp`](https://github.com/ocornut/imgui/blob/master/examples/example_glfw_vulkan/main.cpp): no change
+- [`.clang-format`](https://github.com/mkohlhaas/Template-Metaprogramming-with-CPP/blob/main/.clang-format): no change
 
 ### Build
 
