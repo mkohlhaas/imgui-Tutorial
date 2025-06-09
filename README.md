@@ -3,6 +3,7 @@
 ```shell
 $ update-vcpkg
 $ mkdir imgui-Tutorial && cd imgui-Tutorial
+$ vcpkg new --application
 $ vcpkg add port imgui[docking-experimental,glfw-binding,vulkan-binding]
 ```
 
